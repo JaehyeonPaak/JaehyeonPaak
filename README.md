@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaehyeonPark&fontSize=90)
 
+<p>
+Hi! My name is Jaehyeon Park :) <br>
+</p>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
